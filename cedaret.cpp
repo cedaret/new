@@ -13,10 +13,10 @@ int main()
   for (d = 1; d <= c; d++)
   {if (c % d == 0)
   {
-  	c++;
+  	r++;
   }
   }
-  if (c == 2)
+  if (r == 2)
   {
   	cout << "The number entered is prime" << endl;
   }
